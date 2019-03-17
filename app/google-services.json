@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "519557693874",
+    "firebase_url": "https://smartsms-6694f.firebaseio.com",
+    "project_id": "smartsms-6694f",
+    "storage_bucket": "smartsms-6694f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519557693874:android:ec00b9564ab72b3f",
+        "android_client_info": {
+          "package_name": "com.example.smartstoragemanagementsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519557693874-3rsntmqdrtkkssn9s01nhuivg0c2kgvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4S4LiqfmDDRQNUq0wpn5o3nfQHLSI7s0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

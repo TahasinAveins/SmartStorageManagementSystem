@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SmartStorageManagementSystem</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="enter_your_registered_mail">Enter Your Registered mail</string>
+    <string name="sign_in">Sign In</string>
+    <string name="forgot_password">Forgot Password !!!</string>
+    <string name="create_an_account">Create An Account</string>
+    <string name="user_name">User Name</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="password_more_then_6_character">password(more then 6 character)</string>
+    <string name="registration">Registration</string>
+    <string name="already_registered_login_me">Already Registered. Login Me</string>
+    <string name="reset_your_password">Reset Your Password</string>
+    <string name="just_enter_registered_email_id_to_sent_you_password_reset_instructions">Just enter registered Email Id to sent you password reset instructions.</string>
+    <string name="email">Email</string>
+    <string name="reset">Reset</string>
+    <string name="student_name">  PRODUCT NAME  </string>
+    <string name="student_id">  PRODUCT ID  </string>
+    <string name="back"><![CDATA[<< Back]]></string>
+    <string name="todo">TODO</string>
+    <string name="report">Report</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="report_back"><![CDATA[<<]]></string>
+    <string name="store_in">Store In</string>
+    <string name="store_out">Store Out</string>
+
+</resources>
